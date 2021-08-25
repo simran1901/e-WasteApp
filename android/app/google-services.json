@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "146095648479",
+    "project_id": "electronic-waste-app",
+    "storage_bucket": "electronic-waste-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146095648479:android:c6949fef93ea209acb436a",
+        "android_client_info": {
+          "package_name": "com.example.e_waste_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146095648479-c6qcvjad8295o2ijip84qtsc859l5j1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ9FzkuQHWi6Zt2tQ9INH_h_N9f2xNNA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146095648479-c6qcvjad8295o2ijip84qtsc859l5j1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

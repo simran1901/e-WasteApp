@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/simran/Desktop/Coding/FlutterProjects/e-WasteApp/build/image_picker/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/simran/.gradle/caches/transforms-2/files-2.1/fd24535dd44cb47b00ac4816db3309ce/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/simran/Desktop/Coding/FlutterProjects/e-WasteApp/build/image_picker/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/simran/.gradle/caches/transforms-2/files-2.1/fd24535dd44cb47b00ac4816db3309ce/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/simran/Desktop/Coding/FlutterProjects/e-WasteApp/build/image_picker/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/simran/.gradle/caches/transforms-2/files-2.1/fd24535dd44cb47b00ac4816db3309ce/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/simran/Desktop/Coding/FlutterProjects/e-WasteApp/build/image_picker/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/simran/.gradle/caches/transforms-2/files-2.1/fd24535dd44cb47b00ac4816db3309ce/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    }
+]

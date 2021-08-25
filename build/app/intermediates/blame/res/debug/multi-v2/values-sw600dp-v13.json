@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/simran/Desktop/Coding/FlutterProjects/e-WasteApp/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/simran/.gradle/caches/transforms-2/files-2.1/b883c10d94d8a7cff6597353ba1dbeef/checkout-1.6.10/res/values-sw600dp-v13/values-sw600dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,93",
+                        "endLines": "2,13",
+                        "endColumns": "37,12",
+                        "endOffsets": "88,745"
+                    }
+                }
+            ]
+        }
+    ]
+}
