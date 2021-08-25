@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## Description
 
 This is an e-Waste App coded in flutter where users can upload their electronic items and make those available for other users to purchase if the product does not get sold in 2 months, our team will approach the seller and take the product from him/her and dispose it safely. Also, blogs have been added for users to refer to in order to make them aware of better e waste management techniques.
 
